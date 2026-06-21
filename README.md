@@ -1,8 +1,8 @@
-# Air Passengers Forecasting with Time Series Analysis
+# Air passengers forecasting with time series analysis
 
 This project analyzes monthly airline passenger numbers from 1949 to 1960 using time series analysis techniques. The goal is to identify trend and seasonality patterns in the data and compare different forecasting models.
 
-## Project Overview
+## Project overview
 
 The notebook performs the following steps:
 
@@ -20,11 +20,11 @@ The dataset contains monthly airline passenger counts. The columns represent the
 
 The dataset includes 144 monthly observations from 1949 to 1960.
 
-## Methods Used
+## Methods used
 
 The project compares three forecasting approaches:
 
-### Seasonal Naive Forecast
+### Seasonal naive forecast
 
 A simple baseline model that repeats passenger values from the same month in the previous year.
 
